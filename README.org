@@ -1,10 +1,7 @@
 * cl-irregsexp
 
-
-
-cd972dd---------+-------------------------------------------|
-cd972dd source  | git:https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git   |
-cd972dd commit  |   |
-cd972dd systems | cl-irregsexp |
-cd972dd---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git |
+| commit  | cd972dd                                                          |
+| systems | cl-irregsexp                                                     |
+|---------+------------------------------------------------------------------|
